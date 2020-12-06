@@ -153,6 +153,8 @@ to do... LIEF - Library to Instrument Executable Formats
 
 ## [kubo/injector](https://github.com/kubo/injector)
 
+https://github.com/rentzsch/mach_override
+
 > supported os (GNU/Linux, Windows) platforms (x64, arm64, ?)
 
 to do...
